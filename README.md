@@ -9,3 +9,5 @@ The rapid growth in technology leads to the evolution in many sectors one of the
 <br>
 <h5>RESULTS</h5>
 <img src=results.png width=400>
+<br>
+<a href="https://ieeexplore.ieee.org/document/10212172">Click here to view the research paper
