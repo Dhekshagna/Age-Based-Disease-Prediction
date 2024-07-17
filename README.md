@@ -4,4 +4,4 @@ Predicting the diseases using machine learning algorithms while considering age 
 
 <br>
 <h5>RESULTS</h5>
-<img src=results.jpg width=600>
+<img src=results.png width=400>
